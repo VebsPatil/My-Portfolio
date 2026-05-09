@@ -40,7 +40,7 @@ export default function Navbar() {
             </li>
           ))}
           <li>
-            <a href="https://drive.google.com/file/d/178WbeO_VLjYErCTU1DeXXe2yCjFEhU-y/view?usp=drive_link" className="nav-resume-btn" target="_blank" rel="noopener noreferrer">
+            <a href="https://drive.google.com/file/d/1qY0uc7gfUrDBnT-9l8t-4sjtv0_B4WNg/view?usp=sharing" className="nav-resume-btn" target="_blank" rel="noopener noreferrer">
               Resume
             </a>
           </li>
@@ -66,7 +66,7 @@ export default function Navbar() {
             {item.label}
           </a>
         ))}
-        <a href="https://drive.google.com/file/d/178WbeO_VLjYErCTU1DeXXe2yCjFEhU-y/view?usp=drive_link" className="nav-resume-btn" target="_blank" rel="noopener noreferrer" onClick={handleNavClick}>
+        <a href="https://drive.google.com/file/d/1qY0uc7gfUrDBnT-9l8t-4sjtv0_B4WNg/view?usp=sharing" className="nav-resume-btn" target="_blank" rel="noopener noreferrer" onClick={handleNavClick}>
           Resume
         </a>
       </aside>
